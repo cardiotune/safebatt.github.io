@@ -1,2 +1,2 @@
-# safebatt.github.io
+# Safe Battery
 Battery sheath to prevent leakages 
